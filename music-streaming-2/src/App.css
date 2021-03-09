@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.addAlbum-form {
+  display: grid;
+  width: 50%;
+  border-radius: 2px;
+  padding-top: 20px;
+  margin-top: 20px;
+}
